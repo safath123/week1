@@ -1,0 +1,56 @@
+.header
+{
+    background: #3b5998;
+    width: 100%;
+    height: 80px;
+}
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 20px;
+    float: left;
+      
+}
+.login{
+    width: 50%;
+    float: left;
+    
+}
+.logo-text
+{
+   color: #fff;
+   font-size: 35px;
+   font-weight: bold; 
+   text-decoration: none;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-left: 150px;
+}
+.login-label{
+    font-size: 11px;
+    color: #fff;
+}
+.login-controls
+{
+margin-left: 200PX;
+}
+.forgotten{
+color: grey;
+font-size: 10px;
+text-decoration: none;
+}
+.submit-button{
+    background-color:#4267b2;
+    columns: #fff;
+    min-height: 20px;
+    border-color: #4267b2;
+    cursor: pointer;
+    border-style: solid;
+    border: 1px;
+}
+.submit-button:hover
+{
+    background-color: blue;
+}
